@@ -22,3 +22,6 @@ div a {
   margin-top: 50px;
   font-size: 20px;
 }
+img {
+  border-radius: 8px;
+}
